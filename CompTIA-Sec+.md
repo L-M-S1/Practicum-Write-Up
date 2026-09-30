@@ -1,0 +1,3 @@
+I decided to take what I learned from the AWS Cloud Practitioner exam and not make the same mistake with this certification. I have been watching videos by Professor Messer and taking a multitude of different practice exams, each with different questions. I have also been doing some work with Problem Based Questions as they are featured and weighted on the actual exam. 
+
+Furthermore, I have been using AI (specifically Microsoft Copilot) to keep track of my progress and periodically quiz me on my weak points. So far, consistently, my weakest points are in Domain 1: General Security Concepts and Domain 3: Security Operations. I have done consistently well in the other 3, which makes me pleased as they are weighted for 70% of the exam.  
