@@ -1,1 +1,1 @@
-# Practicum-Write-Up
+During the last eight weeks I have studied for and taken the AWS Cloud Practitioner certification exam, and failed. I have since decided to focus on applying myself to Governance, Risk, and Compliance. This repository will document my efforts in both the AWS CP and CompTia Sec+ certifications exams.
